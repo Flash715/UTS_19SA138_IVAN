@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTS 19SA1138</string>
+    <array name="mata_kuliah">
+        <item>Pemodelan Dua Dimensi</item>
+        <item>Pemerograman Mobile</item>
+        <item>Pembelajaran Mesin</item>
+        <item>Bahasa Inggris Lanjut</item>
+        <item>Teori Graf Dan Otomata</item>
+        <item>Cloud Computing</item>
+        <item>Statistik Probabilitas</item>
+        <item>Isu Sosial dan Etika Profesi</item>
+    </array>
+</resources>
